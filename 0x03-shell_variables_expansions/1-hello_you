@@ -1,2 +1,2 @@
 #!/bin/bash
-echo hello $MyUser
+echo hello $fc9386ba410d
