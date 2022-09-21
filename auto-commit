@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Shell_expansions_varibles"
+git commit -m "LASTT_LAP"
 git push
